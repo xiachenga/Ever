@@ -1,0 +1,187 @@
+"RefrostedMenusirenshiguagnBtn" = "My EVER";
+"RefrostedMenuCoffeeBtn"= "阅读时光";
+"RefrostedMenuMygediaoBtn"="品位生活";
+"RefrostedMenuPriceBtn"="品牌橱窗";
+
+//个人档
+
+"PersonDocumentData"="我的资料";
+"PersonDocumentFigure"="我的形象";
+"PersonDocumentgediao"="我的照片";
+"PersonDocumentDiary"="我的日记";
+"PersonDocumentSetting"="系统设置";
+"PersonDocument" ="个人档";
+"PersonDocumentContacts"="通讯录";
+
+//通讯录
+"PersonContactsAddFriend" = "添加好友";
+"PersonDocumentguanzhu" = "我的粉丝";
+"Contacts"= "联系人";
+"MyFollowers"= "我的粉丝";
+"Search_friend_title"= "搜索好友";
+"Search_textField"= "搜索(EVER号)";
+"Search_Friend_btn"= "搜索";
+
+
+//全局的折叠菜单
+"GlobalFoldMenuNewStates"="最新动态";
+"GlobalFoldMenuerewima"="扫一扫";
+"GlobalFoldMenuWorldbang"="全球榜";
+"GlobalFoldMenuSetting"="系统设置";
+"FavouredMe"="赞过我的";
+"CommentedMe"="评论我的";
+
+//我的资料
+
+"MyDataTitle"="我的资料";
+"MyDataSignature"="签名";
+"MyDataBirthday"="生日";
+"MyDataTel"="电话";
+"MyDataEmail"="邮箱";
+"MyDataRealName"="真实姓名";
+"MyDataCity"="所在城市";
+"MyDataAddress"="我的地址";
+"MyDataSaveBtn"="保存";
+
+//我的形象
+"MyDataFigure"="我的形象";
+
+//我的格调
+"MyDataStyle"="我的照片";
+//我的日记
+"MyDataDairy"="我的日记";
+
+//系统设置
+"SystemCharacter"="个性化";
+"SystemLanguageChange"="语言切换";
+"SystemUpdate"="检查更新";
+"SystemClearCache"="清除缓存";
+"SystemAboutUs"="关于我们";
+"SystemQuitBtn"="退出";
+"SystemPersonalityRoad"="生活轨迹不让他人看";
+"SystemPersonalitySearch"="让自己不被搜索到";
+"SystemPersonalityVoice"="声音";
+"SystemPersonalityShake"="振动";
+"SystemPersonalityPush"="推送";
+
+"SystemPersonalityRoadDetail"="  若开启,任何人将不能进入你的生活轨迹。";
+"SystemPersonalityRoadSearchDetail"="  若开启,任何人将搜索不到你";
+"SystemPersonalityRoadShakeDetail"="  当你运行时,可设置是否需要声音或振动。";
+"SystemLanguageChoose"="语言切换";
+"SystemGuanzhuSina"="关注微博";
+"SystemFeedBack"="意见反馈";
+"SystemCallCeo"="拨打CEO电话";
+//发表
+
+"PhotoLibrary"="照片";
+"PhotoClip"="裁剪";
+"PhotoNextStep"="下一步";
+"PhotoPublishImage"="发表图片";
+
+//Coffee
+"CoffeeReadTimeTitle"="阅读时光";
+"CoffeeComment"= "评论";
+
+//格调
+"GediaoNew"="最新";
+"GediaoMap"="地图";
+"GediaoComment"="评论";
+"GediaoZan"="赞";
+
+//发布
+"PublishPhoto"="照片";
+"PublishJournal"="日记";
+"PublishSelectionLocation"="选择位置";
+
+"ImageClipSucceed"="完成";
+"ImageClipCancel"="取消";
+
+//右上折叠菜单
+"GeDiaoPersonCenter"="个人中心";
+"GeDiaoShare"="分享";
+"GeDiaoReport"="举报";
+
+"MeetPersonCenter"="个人中心";
+"MeetShare"="分享";
+"MeetReport"="举报";
+
+"Report"="举报";
+
+"BigImageDetail"="图片详情";
+
+"ArticleComment"="评论  ";
+"ArticleReport"="举报  ";
+
+"DirectPublish"="  直接发布  ";
+"set_read_dead"="  阅后即焚  ";
+"click_add_marker"="点击图片可以添加标签";
+
+"AddMarker"="添加标签,提高与ta的meet几率(300个字以内)";
+
+"CoffeeComment"=" coffee评论";
+
+"CommentPlaceHolder"="写点什么:";
+
+
+"PersonDetailInfo"="详细资料";
+"PersonDetailFigure"="形象";
+"PersonDetailData"="资料";
+"PersonDetailEverAccount"="Ever账号";
+"PersonDetailCity"="城市";
+"PersonDetailDesc"="一句话";
+"PersonDetailChat"="私聊";
+"PersonDetailLifetrack"="生活轨迹";
+"PersonDetaiolFollow"="关注";
+"PersonDetailFollowed"="已关注";
+
+
+
+"Chat"="聊天";
+"Home"="主页";
+"Charm"="魅力值";
+
+"OpenWithBrowser"="用浏览器打开";
+"CopyLink"="复制链接";
+"ProductShare"="分享";
+
+
+"Comment"="评论";
+"Send"="发送";
+
+//发布设置
+"PublishGediaoTitle"="发布格调";
+"PublishGediao"="确认发布";
+"DisappearDate"="消失时间";
+"DisappearTime"="消失在";
+"OpenAnnoymity"="开启匿名";
+"AllowComment"="允许评论";
+"ShowOnMap"="在地图上显示";
+"hint_disapper_date"="  点击选择发布内容消失的日期";
+"hint_disapper_time"="  点击选择发布内容消失的时间";
+"hint_open_niming"="  若开启，任何人将看不到你的真实身份";
+"hint_allow_comment"="  若关闭，看到用户不能进行评论，但可点赞";
+"hint_show_at_map"="  若关闭，大地图上不再显示麻点信息";
+
+
+//标签
+"marker_edit_hint"=" 请输入标签内容(20字以内)";
+"marker_title"="其他标签";
+"marker_sure"="确定";
+
+//发布日记
+"PublishJournalTitle"="发表日记";
+"PublishJournalSure"="确定";
+"JournalWriteTitle"="写个标题(15个字以内)";
+"JournalEnterContent"="输入内容(300字以上)";
+
+
+"Ranking"="全球榜";
+"MeiliRanking"="魅力达人";
+"DianZanRanking"="点赞达人";
+"CommentRanking"="评论达人";
+"PublishRanking"="发布达人";
+
+
+
+
+

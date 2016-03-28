@@ -1,0 +1,110 @@
+//
+//  Prefix header
+//
+//  The contents of this file are implicitly included at the beginning of every source file.
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_3_0
+#warning "This project uses features only available in iOS SDK 3.0 and later."
+#endif
+
+#ifdef __OBJC__
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+
+//友盟分享
+#import "UMSocial.h"
+
+#import "UIImage+MJ.h"
+//view的frame属性设置
+#import"UIView+Extension.h"
+
+//提示
+#import"MBProgressHUD+MJ.h"
+//照片加载
+#import "UIImageView+WebCache.h"
+//字典转化为模型
+#import "MJExtension.h"
+//侧滑菜单
+#import "MMDrawerController.h"
+#import "MMDrawerVisualState.h"
+#import "UIViewController+MMDrawerController.h"
+
+//集成刷新
+#import "MJRefresh.h"
+//网络访问
+#import "HttpTool.h"
+#import"AccountTool.h"
+
+#import"NormalResult.h"
+
+#import "ZanResult.h"
+
+#import"BaseViewController.h"
+
+#import "UITapImageView.h"
+#import "UIImageView+Common.h"
+#import "UIColor+expand.h"
+
+#import"BaseNavigationController.h"
+
+#import "Localisator.h"
+
+#import "DoAlertView.h"
+
+#import "GoIntoMainScreen.h"
+
+#import "Masonry.h"
+
+#import "PersonhomeViewController.h"
+
+#import "YCXMenu.h"
+
+#import "AFSoundManager.h"
+
+
+
+#endif
+
+#ifdef DEBUG
+#define CLog(format, ...) NSLog(format, ## __VA_ARGS__)
+#else
+#define CLog(format, ...)
+#endif
+
+#define kScreen_Bounds [UIScreen mainScreen].bounds
+
+#define kScreen_Width [UIScreen mainScreen].bounds.size.width
+
+#define kScreen_Height [UIScreen mainScreen].bounds.size.height
+
+#define kThemeColor  [UIColor colorWithHexString:@"fec74a"]
+
+#define kBackgroundColor [UIColor colorWithRed:241/255.0f green:242/255.0f blue:235/255.0f alpha:0.7]
+
+#define kColor(r, g, b) [UIColor colorWithRed:(r)/255.0 green:(g)/255.0 blue:(b)/255.0 alpha:1.0]
+
+#define AFNETWORKING_ALLOW_INVALID_SSL_CERTIFICATES 
+
+#define RONGCLOUD_IM_APPKEY @"lmxuhwagxs1sd"
+
+#define kSaveLanguageDefaultKey @"kSaveLanguageDefaultKey"
+//测试url https://bserver.ooo.do/server/
+#define kSeverPrefix @"https://server.ooo.do/server/"
+
+
+
+//个人信息保存地址
+#define AccountFilepath [[NSSearchPathForDirectoriesInDomains(NSDocumentDirectory, NSUserDomainMask, YES) lastObject] stringByAppendingPathComponent:@"account"]
+
+
+ #define kDevice_Is_iPhone4 ([UIScreen instancesRespondToSelector:@selector(currentMode)] ? CGSizeEqualToSize(CGSizeMake(640, 960), [[UIScreen mainScreen] currentMode].size) : NO)
+
+ #define kDevice_Is_iPhone5 ([UIScreen instancesRespondToSelector:@selector(currentMode)] ? CGSizeEqualToSize(CGSizeMake(640, 1136), [[UIScreen mainScreen] currentMode].size) : NO)
+
+#define kDevice_Is_iPhone6 ([UIScreen instancesRespondToSelector:@selector(currentMode)] ? CGSizeEqualToSize(CGSizeMake(750, 1334), [[UIScreen mainScreen] currentMode].size) : NO)
+
+#define kDevice_Is_iPhone6Plus ([UIScreen instancesRespondToSelector:@selector(currentMode)] ? CGSizeEqualToSize(CGSizeMake(1242, 2208), [[UIScreen mainScreen] currentMode].size) : NO)
+

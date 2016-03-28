@@ -1,0 +1,187 @@
+
+//侧滑菜单
+"RefrostedMenusirenshiguagnBtn" = "My EVER";
+"RefrostedMenuCoffeeBtn"= "Read Time";
+"RefrostedMenuMygediaoBtn"="Style";
+"RefrostedMenuPriceBtn"="Shop";
+
+//个人档
+"PersonDocumentData" = "My Profile";
+"PersonDocumentFigure" = "My Figure";
+"PersonDocumentgediao" = "My Style";
+"PersonDocumentDiary" = "My Diary";
+"PersonDocumentSetting" = "Setting";
+"PersonDocument" ="Personal";
+"PersonDocumentContacts"="Contacts";
+
+//通讯录
+"PersonContactsAddFriend" = "Add friends";
+"PersonDocumentguanzhu" = "Follower";
+"Contacts"= "Contacts";
+"MyFollowers"= "MyFollowers";
+"Search_friend_title"="Search Friends";
+"Search_textField"= "Search(EVERNum)";
+"Search_Friend_btn"= "Search";
+
+
+//全局折叠菜单
+"GlobalFoldMenuNewStates"="News";
+"GlobalFoldMenuerewima"="RichScan";
+"GlobalFoldMenuWorldbang"="Ranking";
+"GlobalFoldMenuSetting"="Settings";
+"FavouredMe"="Like Me";
+"CommentedMe"="Commented";
+
+
+//我的资料
+
+"MyDataTitle"="My Profile";
+"MyDataSignature"="Signature";
+"MyDataBirthday"="Birthday";
+"MyDataTel"="Tel";
+"MyDataEmail"="Email";
+"MyDataRealName"="Real Name";
+"MyDataCity"="City";
+"MyDataAddress"="Address";
+"MyDataSaveBtn"="Save";
+
+//我的形象
+"MyDataFigure"="MyFigure";
+
+//我的格调
+"MyDataStyle"="My Style";
+//我的日记
+"MyDataDairy"="My Diary";
+
+//系统设置
+"SystemCharacter"="Personality";
+"SystemLanguageChange"="Choose Language";
+"SystemUpdate"="Check Update";
+"SystemClearCache"="Clear Cache";
+"SystemAboutUs"="About Us";
+"SystemQuitBtn"="Logout";
+"SystemPersonalityRoad"="Personal trajectory let other perple see";
+"SystemPersonalitySearch"="let oneself to search";
+"SystemPersonalityVoice"="Voice";
+"SystemPersonalityShake"="Shake";
+"SystemPersonalityPush"="Push";
+"SystemPersonalityRoadDetail"="If open,anyone will not e anble to come into your life";
+"SystemPersonalityRoadSearchDetail"="If open,anyone will search for less than you";
+"SystemPersonalityRoadShakeDetail"="Whether you need when you at runtime,you can set the sound vibration";
+"SystemLanguageChoose"="Choose Language";
+
+"SystemGuanzhuSina"="Sina";
+"SystemFeedBack"="FeedBack";
+"SystemCallCeo"="Call CEO";
+
+
+//照片
+"PhotoLibrary"="Photo";
+"PhotoClip"="Clip";
+"PhotoNextStep"="Next";
+
+"PhotoPublishImage"="publish image";
+
+
+//Coffee
+"CoffeeReadTimeTitle"="Read Time";
+"CoffeeComment"= "Comment";
+
+"CommentPlaceHolder"="write something:";
+
+//格调
+"GediaoNew"="New";
+"GediaoMap"="Map";
+"GediaoComment"="Comment";
+"GediaoZan"="Favour";
+
+//发布
+"PublishPhoto"="Images";
+"PublishJournal"="Diary";
+
+"PublishSelectionLocation"="Selection Location";
+
+"ImageClipSucceed"="Finish";
+"ImageClipCancel"="cancel";
+
+"GeDiaoPersonCenter"="Personal";
+"GeDiaoShare"="Share";
+"GeDiaoReport"="Report";
+
+"MeetPersonCenter"="Personal";
+"MeetShare"="Share";
+"MeetReport"="Report";
+
+"Report"="Report";
+
+
+
+"BigImageDetail"="Image details";
+
+"ArticleComment"="Comment ";
+"ArticleReport"="Report ";
+
+"DirectPublish"="  Direct release  ";
+"set_read_dead"="  Burn after reading  ";
+"click_add_marker"="Click on image to add tags";
+"AddMarker"="share your happiness";
+"CoffeeComment"=" Coffee comment";
+
+"PersonDetailInfo"="Detail information";
+"PersonDetailFigure"="Figure";
+"PersonDetailData"="Data";
+"PersonDetailEverAccount"="Ever";
+"PersonDetailCity"="City";
+"PersonDetailDesc"="Motto";
+"PersonDetailChat"="Private chat";
+"PersonDetailLifetrack"="Life track";
+"PersonDetaiolFollow"="Follow";
+"PersonDetailFollowed"="Followed";
+
+"Chat"="Chat";
+"Home"="Home";
+"Charm"="Charm";
+
+"OpenWithBrowser"="Open With Browser";
+"CopyLink"="Copy Link";
+"ProductShare"="Share";
+
+"Comment"="Comment";
+"Send"="Send";
+
+
+
+//发布设置
+"PublishGediaoTitle"="Publish";
+"PublishGediao"="Finish";
+"DisappearDate"="extinction date";
+"DisappearTime"="extinction time";
+"OpenAnnoymity"="open anonymous";
+"AllowComment"="allow comment";
+"ShowOnMap"="Shown on the map";
+"hint_disapper_date"="  Click on the select content disappear date";
+"hint_disapper_time"="  Click on the select content disappear time";
+"hint_open_niming"="  Once open, anyone will not see your real identity";
+"hint_allow_comment"="  See once closed, user can not comment, but can be some praise";
+"hint_show_at_map"="  Once closed, no longer shows pitting on the large map information";
+
+
+//标签
+"marker_edit_hint"=" Enter the label content(within 20)";
+"marker_title"="Marker";
+"marker_sure"="Sure";
+
+//发布日记
+"PublishJournalTitle"="Publish Dairy";
+"PublishJournalSure"="Sure";
+"JournalWriteTitle"="Write a title(Within 15)";
+"JournalEnterContent"="Enter the diary contents ( more 300)";
+
+
+//全球榜
+"Ranking"="Ranking";
+"MeiliRanking"="Charm";
+"DianZanRanking"="Praise";
+"CommentRanking"="Comment";
+"PublishRanking"="Publish";
+

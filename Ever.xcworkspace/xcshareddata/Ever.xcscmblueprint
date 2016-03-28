@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "5fe0ee23-2ecc-cfcc-0eac-18764a20556d++5431",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "5fe0ee23-2ecc-cfcc-0eac-18764a20556d++5431" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "5fe0ee23-2ecc-cfcc-0eac-18764a20556d++5431" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "7EC785AF-BC97-4E0D-9767-66270EAA84ED",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "5fe0ee23-2ecc-cfcc-0eac-18764a20556d++5431" : "EvenDeom\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Ever",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Ever\/Ever.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/vip.svnspot.com\/631768417.EVER",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5fe0ee23-2ecc-cfcc-0eac-18764a20556d++5431"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>7EC785AF-BC97-4E0D-9767-66270EAA84ED</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Ever</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>5fe0ee23-2ecc-cfcc-0eac-18764a20556d++1005</key>
+		<string>https://vip.svnspot.com/631768417.EVER/trunk/ios/Ever</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Ever.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>5fe0ee23-2ecc-cfcc-0eac-18764a20556d++1005</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>5fe0ee23-2ecc-cfcc-0eac-18764a20556d++1005</key>
+		<string>https://vip.svnspot.com/631768417.EVER</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://vip.svnspot.com/631768417.EVER/trunk/ios/Ever/Ever.xcworkspace</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>5fe0ee23-2ecc-cfcc-0eac-18764a20556d++1005</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5fe0ee23-2ecc-cfcc-0eac-18764a20556d++1005</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Ever</string>
+		</dict>
+	</array>
+</dict>
+</plist>
